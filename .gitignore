@@ -5,7 +5,7 @@
 # ----------------------------------------- Datasets -----------------------------------------
 
 **/WMTdata/*
-**/temporal-misalignment/models/*
+**/gpt2-finetuning/models/*
 
 # ----------------------------------------- Python Rules -----------------------------------------
 # Byte-compiled / optimized / DLL files
