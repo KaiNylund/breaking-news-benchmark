@@ -1,1 +1,1 @@
-# live-news-data
+# breaking-news-benchmark
